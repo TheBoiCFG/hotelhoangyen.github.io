@@ -1,0 +1,109 @@
+@charset "UTF-8";
+/*----------
+How to use mq
+
+At below, lg & md & sm scss file make source code
+
+@include mq (lg md sm) {
+	.something { something: something; }
+}
+----------*/
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 1em;
+}
+
+p {
+  margin-bottom: 1em;
+}
+
+.lead {
+  margin-bottom: 1em;
+}
+
+.img {
+  margin-bottom: 1.5em;
+}
+
+table {
+  margin-bottom: 1em;
+}
+
+table.table-bordered {
+  margin-bottom: 1.5em;
+}
+
+ul,
+ol {
+  margin-bottom: 0.5em;
+}
+ul ul,
+ul ol,
+ol ul,
+ol ol {
+  margin-top: 0.5em;
+  margin-bottom: 0;
+}
+
+.list-inline {
+  margin-bottom: 1em;
+}
+
+dl {
+  margin-bottom: 0.5em;
+}
+
+hr {
+  zoom: 1;
+}
+hr:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+hr {
+  margin: 1.5em 0;
+}
+
+hr.l-compact {
+  margin: -0.5em 0 0.5em;
+}
+
+iframe {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+blockquote {
+  margin-bottom: 1em;
+}
+
+.pagination {
+  margin-top: 0;
+  margin-bottom: 1.5em;
+}
+
+.input-group,
+.form-group {
+  margin-bottom: 1em;
+}
+
+.nav-tabs,
+.nav-pills {
+  margin-bottom: 1.5em;
+}
+
+.btn-group,
+.list-group,
+.alert,
+.panel {
+  margin-bottom: 1.5em;
+}
+
+.modal-header *:last-child {
+  margin-bottom: 0;
+}
+
+.modal-body *:last-child {
+  margin-bottom: 0;
+}

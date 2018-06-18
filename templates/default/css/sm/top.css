@@ -1,0 +1,34 @@
+@charset "UTF-8";
+/*----------
+How to use mq
+
+At below, lg & md & sm scss file make source code
+
+@include mq (lg md sm) {
+	.something { something: something; }
+}
+----------*/
+#prm-cnt #l-special .l-ttl {
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 37px;
+  color: #ad6700;
+}
+
+section#l-relation {
+  padding-top: 10px;
+  padding-bottom: 24px;
+  border-top: 2px solid #D7A705;
+}
+section#l-relation .l-detail {
+  text-align: center;
+}
+section#l-relation .l-detail dl {
+  display: inline-block;
+  margin: 0 17px;
+}
+section#l-relation .l-detail dl dt {
+  margin-bottom: 5px;
+  font-weight: normal;
+  color: #700001;
+}

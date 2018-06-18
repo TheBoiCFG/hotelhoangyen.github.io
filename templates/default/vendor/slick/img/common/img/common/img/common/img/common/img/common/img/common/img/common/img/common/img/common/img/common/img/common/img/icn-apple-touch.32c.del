@@ -1,0 +1,735 @@
+﻿<!DOCTYPE html>
+<html>
+	
+<!-- Mirrored from www.imperialhotel.vn/templates/default/vendor/slick/img/common/img/common/img/common/img/common/img/common/img/common/img/common/img/common/img/common/img/common/img/common/img/common/img/common/img/common/img/common/icn-apple-touch.png by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 29 May 2018 02:10:42 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+		<meta charset="UTF-8">
+		<title>Reales</title>
+		<!-- meta -->
+		<meta name="description" content=" "/>
+        <meta property="og:description" content=" " />
+        <meta name="keywords" content=""/>
+		<meta name="robots" content="index,follow,all" />
+		<meta name="generator" content="Thiết kế website Dương Hoàng" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+		<link rel="icon" href="/icn-favicon.33b.delaye">
+		<link rel="shortcut icon" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../favicon.html" type="image/x-icon" rel="shortcut icon"/>
+		<link rel="apple-touch-icon" href="icn-apple-touch.33c.del">
+		<!-- css -->
+		
+		<link rel="stylesheet" href="../../../../../../../../../../../../../../../../../../../../../../../../../css/import-common.css">
+		<link rel="stylesheet" media="screen and (max-width: 767px)" href="../../../../../../../../../../../../../../../../../../../../../../../../../css/import-xs.css">
+		<link rel="stylesheet" media="screen and (min-width: 768px) and (max-width: 991px)" href="../../../../../../../../../../../../../../../../../../../../../../../../../css/import-sm.css">
+		<link rel="stylesheet" media="screen and (min-width: 992px) and (max-width: 1199px)" href="../../../../../../../../../../../../../../../../../../../../../../../../../css/import-md.css">
+		<link rel="stylesheet" media="screen and (min-width: 1200px)" href="../../../../../../../../../../../../../../../../../../../../../../../../../css/import-lg.css">
+		<link rel="stylesheet" media="screen and (max-width: 767px)" href="../../../../../../../../../../../../../../../../../../../../../../../../../css/xs/top.css">
+		<link rel="stylesheet" media="screen and (min-width: 768px) and (max-width: 991px)" href="../../../../../../../../../../../../../../../../../../../../../../../../../css/sm/top.css">
+		<link rel="stylesheet" media="screen and (min-width: 992px) and (max-width: 1199px)" href="../../../../../../../../../../../../../../../../../../../../../../../../../css/md/top.css">
+		<link rel="stylesheet" media="screen and (min-width: 1200px)" href="../../../../../../../../../../../../../../../../../../../../../../../../../css/lg/top.css">
+		<link rel="stylesheet" href="../../../../../../../../../../../../../../../../../../../../../../../../../css/style.css">
+		<!-- js -->
+		<script src="../../../../../../../../../../../../../../../../../../../../../../../../../vendor3/jquery/jquery-1.11.0.min.js"></script>
+		<script src="../../../../../../../../../../../../../../../../../../../../../../../../../vendor3/jquery-cookie/jquery.cookie.js"></script>
+		<script src="../../../../../../../../../../../../../../../../../../../../../../../../../vendor3/bootstrap/js/bootstrap.js"></script>
+		<script src="../../../../../../../../../../../../../../../../../../../../../../../../../vendor3/bootstrap/holder.js"></script>
+		<script src="../../../../../../../../../../../../../../../../../../../../../../../../../vendor3/Magnific-Popup/jquery.magnific-popup.min.js"></script>
+		<script src="../../../../../../../../../../../../../../../../../../../../../../../../../vendor3/slick/slick.min.js"></script>
+		<script src="../../../../../../../../../../../../../../../../../../../../../../../../../vendor3/smooth-scroll/scroll.js"></script>
+		<script src="../../../../../../../../../../../../../../../../../../../../../../../../../vendor3/totop/easing.js"></script>
+		<script src="../../../../../../../../../../../../../../../../../../../../../../../../../vendor3/totop/jquery.ui.totop.js"></script>
+		<script src="../../../../../../../../../../../../../../../../../../../../../../../../../vendor3/jquery.rollover/jquery.rollover.js"></script>
+		<script src="../../../../../../../../../../../../../../../../../../../../../../../../../vendor3/jquery.set_height/jquery.set_height.js"></script>
+		<script src="../../../../../../../../../../../../../../../../../../../../../../../../../js/function.js"></script>
+		<script src="../../../../../../../../../../../../../../../../../../../../../../../../../js/control-common.js"></script>
+		<script src="../../../../../../../../../../../../../../../../../../../../../../../../../js/control-top.js"></script>
+
+
+        <!-- GA Code -->
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','../../../../../../../../../../../../../../../../../../../../../../../../../../../../www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-55351960-1', 'auto');
+            ga('send', 'pageview');
+        </script>
+        <!-- Facebook Pixel Code -->
+        <script>
+            !function(f,b,e,v,n,t,s)
+                    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+                    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+                    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+                    n.queue=[];t=b.createElement(e);t.async=!0;
+                    t.src=v;s=b.getElementsByTagName(e)[0];
+                    s.parentNode.insertBefore(t,s)}(window,document,'script',
+                '../../../../../../../../../../../../../../../../../../../../../../../../../../../../connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '1794212630899510');
+            fbq('track', 'PageView');
+        </script>
+
+        <!--Start of Zendesk Chat Script-->
+        <script type="text/javascript">
+            window.$zopim || (function(d, s) {
+                var z = $zopim = function(c) {
+                        z._.push(c)
+                    },
+                    $ = z.s =
+                        d.createElement(s),
+                    e = d.getElementsByTagName(s)[0];
+                z.set = function(o) {
+                    z.set.
+                    _.push(o)
+                };
+                z._ = [];
+                z.set._ = [];
+                $.async = !0;
+                $.setAttribute("charset", "utf-8");
+                $.src = "https://v2.zopim.com/?4hAdjHr2RYgJgEBcog0zdq77UdPIjjzt";
+                z.t = +new Date;
+                $.type = "text/javascript";
+                e.parentNode.insertBefore($, e)
+            })(document, "script");
+        </script>
+        <!--End of Zendesk Chat Script-->
+	</head>
+	<body id="top-page" class="one-clm">
+
+        <noscript>
+            <img height="1" width="1"
+                 src="https://www.facebook.com/tr?id=1794212630899510&amp;ev=PageView&amp;noscript=1"/>
+        </noscript>
+        <!-- End Facebook Pixel Code -->
+		<div id="wpr">
+			<div id="wpr-inr">
+				<header id="hdr">
+	<div id="hdr-inr" class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<h1 class="logo-website"><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../home.html"><img src="../../../../../../../../../../../../../../../../../../../../../../../../../img/common/hdr-logo-website.png" alt="web site name" class="ro" /></a></h1>
+				<ul class="nav-fst">
+					<li style="
+    padding-top: 10px;
+">
+						<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../about.html"></a>
+					</li>
+					<li style="
+    padding-top: 10px;
+">
+						<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../accommodation.html"></a>
+					</li>
+					<li>
+						<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../dining-room.html"></a>
+					</li>
+				</ul>
+				<ul class="nav-scd">
+					<li>
+						<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../events-conferences.html"></a>
+					</li>
+					<li style="
+    padding-top: 10px;
+">
+						<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../royal-wedding.html"></a>
+					</li>
+					<li>
+						<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../beach-club.html"></a>
+					</li>
+				</ul>
+				<div class="lang">
+					<ul>
+						<li  style="display: inline-block !important;">
+							<a href="#"><img src="../../../../../../../../../../../../../../../../../../../../../../../../../img/room/en.jpg"></a>
+						</li>
+						<li class='lang_hide' style="display: inline-block !important;">
+							<a href="#"><img src="../../../../../../../../../../../../../../../../../../../../../../../../../img/room/vn.jpg"></a>
+						</li>
+					</ul>
+
+				</div>
+				<nav id="nav" class="navbar navbar-default">
+					<div id="nav-inr" class="container">
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+						</div>
+						<div class="nav-inr-m collapse navbar-collapse" id="navbar-collapse-1">
+							<ul class="nav navbar-nav">
+								<li class="active">
+									<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../about.html"></a>
+								</li>
+								<li>
+									<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../accommodation.html"></a>
+								</li>
+								<li>
+									<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../dining-room.html"></a>
+								</li>
+								<li>
+									<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../events-conferences.html"></a>
+								</li>
+								<li>
+									<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../royal-wedding.html"></a>
+								</li>
+								<li>
+									<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../beach-club.html"></a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</nav>
+			</div>
+		</div>
+	</div>
+</header>
+<script>
+    $(document).ready(function () {
+        function MNight(more) {
+            var link = $("a[href='https://app-apac.thebookingbutton.com/properties/imperialvtdirect']");
+            if(link.length > 0){
+                var href = link.attr("href");
+                href = href + more;
+                link.attr("href", href);
+            }
+        }
+        if(window.more == undefined){
+            let begin = new Date();
+            let end = new Date(begin);
+            end.setDate(begin.getDate() + 1);
+            let beginStr = begin.toLocaleString('en-us', {year: 'numeric', month: '2-digit', day: '2-digit'}).
+            replace(/(\d+)\/(\d+)\/(\d+)/, '$2-$1-$3');
+            let endStr = end.toLocaleString('en-us', {year: 'numeric', month: '2-digit', day: '2-digit'}).
+            replace(/(\d+)\/(\d+)\/(\d+)/, '$2-$1-$3');
+            var more = '?number_adults=2&currency=VND&check_in_date=' + beginStr +'&check_out_date=' + endStr;
+            MNight(more);
+        }
+    });
+</script>
+				<div id="mvl">
+	<div id="mvl-inr">
+		<div class="slick">
+			<div>
+				<span ><p class="ttl2" style="z-index:99999999;font-size: 33px; margin-bottom:-15px; text-align:center;top:34%;left:20%;opacity:0 ">EXQUSITE BEACH </p><p style="z-index:99999999;font-size: 44px;top:39%;opacity:0 " class="ttl3">FOR WONDERFUL MOMENT</p></span>
+				<img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../upload/images/banner/Banner_Home1.jpg" alt="Something alt here">
+			</div>
+			<div>
+				<span ><p class="ttl2" style="z-index:99999999;font-size: 33px; margin-bottom:-15px; text-align:center;top:34%;left:20%;opacity:0 ">VALUE</p><p style="z-index:99999999;font-size: 44px;top:39%;opacity:0 " class="ttl3">IN STYLE</p></span>
+				<img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../upload/images/banner/Banner_Home2.jpg" alt="Something alt here">
+			</div>
+			<div>
+				<span ><p class="ttl2" style="z-index:99999999;font-size: 33px; margin-bottom:-15px; text-align:center;top:34%;left:20%;opacity:0 ">MAGNIFICIENT</p><p style="z-index:99999999;font-size: 44px;top:39%;opacity:0 " class="ttl3">ACCOMODATION</p></span>
+				<img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../upload/images/banner/HOTEL-ROOMS_new.jpg" alt="Something alt here">
+			</div>
+			<div>
+				<span ><p class="ttl2" style="z-index:99999999;font-size: 33px; margin-bottom:-15px; text-align:center;top:34%;left:20%;opacity:0 ">THE DISTINCT & FLAVOUR</p><p style="z-index:99999999;font-size: 44px;top:39%;opacity:0 " class="ttl3">OF ASIAN & EUROPEAN CUISINE</p></span>
+				<img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../upload/images/banner/ASIA-SELECTION_new.jpg" alt="Something alt here">
+			</div>
+			<div>
+				<span ><p class="ttl2" style="z-index:99999999;font-size: 33px; margin-bottom:-15px; text-align:center;top:34%;left:20%;opacity:0 ">WONDERFUL</p><p style="z-index:99999999;font-size: 44px;top:39%;opacity:0 " class="ttl3">BEACH VIEW</p></span>
+				<img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../upload/images/banner/KING-TOWER-ROOMS_new.jpg" alt="Something alt here">
+			</div>
+			<div>
+				<span ><p class="ttl2" style="z-index:99999999;font-size: 33px; margin-bottom:-15px; text-align:center;top:34%;left:20%;opacity:0 ">A SYMPHONY</p><p style="z-index:99999999;font-size: 44px;top:39%;opacity:0 " class="ttl3">OF LUXURY</p></span>
+				<img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../upload/images/banner/Banner_Home6.jpg" alt="Something alt here">
+			</div>
+			
+		</div>
+		<div class="l-menu-dropdown">
+			<div class="container">
+				<div class="l-link-relation">
+					<p class="l-sub-ttl">HOTEL GALLERY</p>
+					<ul class="l-list">
+						<li><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../accommodation.html"></a></li>
+						<li><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../dining-room.html"></a></li>
+						<li><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../events-conferences.html"></a></li>
+						<li><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../royal-wedding.html"></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="l-booknow">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 hidden-xs l-tell">
+						<p>+84 254 362 8888</p>
+					</div>
+					<div class="col-sm-4 l-btn-booknow">
+						<p class="img text-center"><a class="cls-event" data-type="fp" data-event="AddToCart" href="https://app-apac.thebookingbutton.com/properties/imperialvtdirect" target="_blank"><img src="../../../../../../../../../../../../../../../../../../../../../../../../../img/top/mvl-btn-booknow.png" alt=""></a><a id="btn_call" style="display:none;" href="tel:+84 254 362 8888" target="_blank"><img src="../../../../../../../../../../../../../../../../../../../../../../../../../img/top/mvl-btn-callnow.png" alt=""></a></p>
+					</div>
+					<script>
+					function detectmob() {
+					   if(window.innerWidth <= 800) {
+					   document.getElementById("btn_call").style.display="";
+						// alert("mb")
+					   } else {
+					   }
+					}
+					detectmob();
+										</script>
+					<div class="col-sm-4 hidden-xs l-social">
+						<ul class="l-sos">
+							<li><a href="https://www.facebook.com/ImperialHotelVungTau/" target="_blank"><img src="../../../../../../../../../../../../../../../../../../../../../../../../../img/common/icon-social-facebook.png" alt=""></a></li>
+							<li><a href="https://twitter.com/IMPERIALVungTau" target="_blank"><img src="../../../../../../../../../../../../../../../../../../../../../../../../../img/common/icon-social-twitter.png" alt=""></a></li>
+							<li><a href="https://www.instagram.com/theimperialhotel/" target="_blank"><img src="../../../../../../../../../../../../../../../../../../../../../../../../../img/common/icon-social-instagram.png" alt=""></a></li>
+							<li><a href="https://www.tripadvisor.com.sg/Hotel_Review-g303946-d1488402-Reviews-The_Imperial_Hotel-Vung_Tau_Ba_Ria_Vung_Tau_Province.html" target="_blank"><img src="../../../../../../../../../../../../../../../../../../../../../../../../../img/common/icon-social-4.png" alt=""></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="clearfix"></div>
+		<div class="l-link-relation-mb hidden-lg hidden-sm hidden-md">
+		<p class="mb_tt">HOTEL GALLERY</p>
+			<ul class="l-list">
+				<li><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../accommodation.html"></a></li>
+				<li><a href="#"></a></li>
+				<li><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../events-conferences.html"></a></li>
+				<li><a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../royal-wedding.html"></a></li>
+			</ul>
+		</div>
+		<script>
+		var clas_n2 = document.getElementsByClassName("ttl2");
+		var clas_n3 = document.getElementsByClassName("ttl3");
+		function funcall_1()
+		{
+			var my_time =setTimeout (func1,0)
+			function func1()
+			{
+				clas_n2[1].style.opacity = "1";
+			clas_n2[1].style.left = "50%";
+			}
+
+			var my_time =setTimeout (func_1,500)
+			function func_1()
+			{
+				clas_n3[1].style.opacity = "1";
+			clas_n3[1].style.left = "50%";
+			}
+		}
+		funcall_1();
+		function funcall_2()
+		{
+			var my_time =setTimeout (func1,0)
+			function func1()
+			{
+				clas_n2[2].style.opacity = "1";
+			clas_n2[2].style.left = "50%";
+			}
+
+			var my_time =setTimeout (func_1,500)
+			function func_1()
+			{
+				clas_n3[2].style.opacity = "1";
+			clas_n3[2].style.left = "50%";
+			}
+		}
+		
+		function funcall_3()
+		{
+			var my_time =setTimeout (func1,0)
+			function func1()
+			{
+				clas_n2[3].style.opacity = "1";
+			clas_n2[3].style.left = "50%";
+			}
+
+			var my_time =setTimeout (func_1,500)
+			function func_1()
+			{
+				clas_n3[3].style.opacity = "1";
+			clas_n3[3].style.left = "50%";
+			}
+		}
+		
+		function funcall_4()
+		{
+			var my_time =setTimeout (func1,0)
+			function func1()
+			{
+				clas_n2[4].style.opacity = "1";
+			clas_n2[4].style.left = "50%";
+			}
+
+			var my_time =setTimeout (func_1,500)
+			function func_1()
+			{
+				clas_n3[4].style.opacity = "1";
+			clas_n3[4].style.left = "50%";
+			}
+		}
+		
+		function funcall_5()
+		{
+			var my_time =setTimeout (func1,0)
+			function func1()
+			{
+				clas_n2[5].style.opacity = "1";
+			clas_n2[5].style.left = "50%";
+			}
+
+			var my_time =setTimeout (func_1,500)
+			function func_1()
+			{
+				clas_n3[5].style.opacity = "1";
+			clas_n3[5].style.left = "50%";
+			}
+		}
+		
+		function funcall_6()
+		{
+			var my_time =setTimeout (func1,0)
+			function func1()
+			{
+				clas_n2[6].style.opacity = "1";
+			clas_n2[6].style.left = "50%";
+			}
+
+			var my_time =setTimeout (func_1,500)
+			function func_1()
+			{
+				clas_n3[6].style.opacity = "1";
+			clas_n3[6].style.left = "50%";
+			}
+		}
+
+		
+		function funcal_1()
+		{
+			var my_time =setTimeout (func1,0)
+			function func1()
+			{
+				clas_n2[1].style.opacity = "0";
+			clas_n2[1].style.left = "20%";
+			}
+
+			var my_time =setTimeout (func_1,500)
+			function func_1()
+			{
+				clas_n3[1].style.opacity = "0";
+			clas_n3[1].style.left = "20%";
+			}
+		}
+		
+		function funcal_2()
+		{
+			var my_time =setTimeout (func1,0)
+			function func1()
+			{
+				clas_n2[2].style.opacity = "0";
+			clas_n2[2].style.left = "20%";
+			}
+
+			var my_time =setTimeout (func_1,500)
+			function func_1()
+			{
+				clas_n3[2].style.opacity = "0";
+			clas_n3[2].style.left = "20%";
+			}
+		}
+		
+		function funcal_3()
+		{
+			var my_time =setTimeout (func1,0)
+			function func1()
+			{
+				clas_n2[3].style.opacity = "0";
+			clas_n2[3].style.left = "20%";
+			}
+
+			var my_time =setTimeout (func_1,500)
+			function func_1()
+			{
+				clas_n3[3].style.opacity = "0";
+			clas_n3[3].style.left = "20%";
+			}
+		}
+		
+		function funcal_4()
+		{
+			var my_time =setTimeout (func1,0)
+			function func1()
+			{
+				clas_n2[4].style.opacity = "0";
+			clas_n2[4].style.left = "20%";
+			}
+
+			var my_time =setTimeout (func_1,500)
+			function func_1()
+			{
+				clas_n3[4].style.opacity = "0";
+			clas_n3[4].style.left = "20%";
+			}
+		}
+		
+		function funcal_5()
+		{
+			var my_time =setTimeout (func1,0)
+			function func1()
+			{
+				clas_n2[5].style.opacity = "0";
+			clas_n2[5].style.left = "20%";
+			}
+
+			var my_time =setTimeout (func_1,500)
+			function func_1()
+			{
+				clas_n3[5].style.opacity = "0";
+			clas_n3[5].style.left = "20%";
+			}
+		}
+		
+		function funcal_6()
+		{
+			var my_time =setTimeout (func1,0)
+			function func1()
+			{
+				clas_n2[6].style.opacity = "0";
+			clas_n2[6].style.left = "20%";
+			}
+
+			var my_time =setTimeout (func_1,500)
+			function func_1()
+			{
+				clas_n3[6].style.opacity = "0";
+			clas_n3[6].style.left = "20%";
+			}
+		}
+		</script>
+		<div class="slick-nav">
+			<div class="l-list-nav">
+				<div><img src="../../../../../../../../../../../../../../../../../../../../../../../../../img/top/01.jpg" alt="1"></div>
+				<div><img src="../../../../../../../../../../../../../../../../../../../../../../../../../img/top/02.jpg" alt="2"></div>
+				<div><img src="../../../../../../../../../../../../../../../../../../../../../../../../../img/top/03.jpg" alt="3"></div>
+				<div><img src="../../../../../../../../../../../../../../../../../../../../../../../../../img/top/04.jpg" alt="4"></div>
+				<div><img src="../../../../../../../../../../../../../../../../../../../../../../../../../img/top/05.jpg" alt="5"></div>
+				<div><img src="../../../../../../../../../../../../../../../../../../../../../../../../../img/top/06.jpg" alt="6"></div>
+			</div>
+		</div>
+	</div>
+</div>
+				<div id="cnt">
+	<div id="cnt-inr" class="container">
+		<div id="prm-cnt">
+			<div class="row" id="l-special">
+				<div class="col-sm-12">
+					<h2 class="l-ttl"></h2>
+				</div>
+				<div class="col-md-4 mb-30pxh">
+					<div class="room-galery">
+						<a class="fancybox" data-fancybox-group="gallery" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../upload/images/2018/Grand%20Hotel/Website%20Image(1).jpg" > <img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../upload/images/2018/Grand%20Hotel/Website%20Image(1).jpg" alt="Stay and Gift" title="Stay and Gift"> </a>
+						<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../special-offers/stay-and-gift-8.html" style=" position: absolute;    width: 100%;    height: 100%;    top: 0px;    z-index: 999999999999999999;">
+						<div class="img-hover fancybox" data-fancybox-group="gallery" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../upload/images/2018/Grand%20Hotel/Website%20Image(1).jpg" >
+							<div class="text-hover_small" style="margin-top:60%">
+								<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../special-offers/stay-and-gift-8.html"> <h3 class="color-default" style="margin-bottom: 0px;font-size: 20px;">Stay and Gift</h3>
+								<p class="mb0 color-white" style="color: #fff;">
+									Book 2 Nights - Get 1 Free Night
+								</p> 
+								</a>
+							</div>
+						</div>
+						</a>
+					</div>
+				</div>
+				<div class="col-md-4 mb-30pxh">
+					<div class="room-galery">
+						<a class="fancybox" data-fancybox-group="gallery" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../upload/images/2018/Summer%20Package/SUMMER%202018_SPECIAL%20OFFER.jpg" > <img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../upload/images/2018/Summer%20Package/SUMMER%202018_SPECIAL%20OFFER.jpg" alt="Inspired Summer" title="Inspired Summer"> </a>
+						<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../special-offers/inspired-summer-4.html" style=" position: absolute;    width: 100%;    height: 100%;    top: 0px;    z-index: 999999999999999999;">
+						<div class="img-hover fancybox" data-fancybox-group="gallery" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../upload/images/2018/Summer%20Package/SUMMER%202018_SPECIAL%20OFFER.jpg" >
+							<div class="text-hover_small" style="margin-top:60%">
+								<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../special-offers/inspired-summer-4.html"> <h3 class="color-default" style="margin-bottom: 0px;font-size: 20px;">Inspired Summer</h3>
+								</a>
+							</div>
+						</div>
+						</a>
+					</div>
+				</div>
+				<div class="col-md-4 mb-30pxh">
+					<div class="room-galery">
+						<a class="fancybox" data-fancybox-group="gallery" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../upload/images/2018/Grand%20Hotel/5D4N%20Special%20Offer.jpg" > <img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../upload/images/2018/Grand%20Hotel/5D4N%20Special%20Offer.jpg" alt="GETAWAY PACKAGE" title="GETAWAY PACKAGE"> </a>
+						<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../special-offers/getaway-package-7.html" style=" position: absolute;    width: 100%;    height: 100%;    top: 0px;    z-index: 999999999999999999;">
+						<div class="img-hover fancybox" data-fancybox-group="gallery" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../upload/images/2018/Grand%20Hotel/5D4N%20Special%20Offer.jpg" >
+							<div class="text-hover_small" style="margin-top:60%">
+								<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../special-offers/getaway-package-7.html"> <h3 class="color-default" style="margin-bottom: 0px;font-size: 20px;">GETAWAY PACKAGE</h3>
+								<p class="mb0 color-white" style="color: #fff;">
+									From City to the beach!
+								</p> 
+								</a>
+							</div>
+						</div>
+						</a>
+					</div>
+				</div>
+				<div class="col-md-4 mb-30pxh">
+					<div class="room-galery">
+						<a class="fancybox" data-fancybox-group="gallery" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../upload/images/SPECIAL%20OFFERS%20BANNERS%20%5bMICE%5d.jpg" > <img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../upload/images/SPECIAL%20OFFERS%20BANNERS%20%5bMICE%5d.jpg" alt="COMPLETE EVENT PACKAGES" title="COMPLETE EVENT PACKAGES"> </a>
+						<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../special-offers/complete-event-packages-3.html" style=" position: absolute;    width: 100%;    height: 100%;    top: 0px;    z-index: 999999999999999999;">
+						<div class="img-hover fancybox" data-fancybox-group="gallery" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../upload/images/SPECIAL%20OFFERS%20BANNERS%20%5bMICE%5d.jpg" >
+							<div class="text-hover_small" style="margin-top:60%">
+								<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../special-offers/complete-event-packages-3.html"> <h3 class="color-default" style="margin-bottom: 0px;font-size: 20px;">COMPLETE EVENT PACKAGES</h3>
+								<p class="mb0 color-white" style="color: #fff;">
+									that suit your needs
+								</p> 
+								</a>
+							</div>
+						</div>
+						</a>
+					</div>
+				</div>
+				<div class="col-md-4 mb-30pxh">
+					<div class="room-galery">
+						<a class="fancybox" data-fancybox-group="gallery" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../upload/images/SPECIAL%20OFFERS%20BANNERS%20%5bParents%5d(1).jpg" > <img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../upload/images/SPECIAL%20OFFERS%20BANNERS%20%5bParents%5d(1).jpg" alt="A LOVING GIFT" title="A LOVING GIFT"> </a>
+						<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../special-offers/a-loving-gift-2.html" style=" position: absolute;    width: 100%;    height: 100%;    top: 0px;    z-index: 999999999999999999;">
+						<div class="img-hover fancybox" data-fancybox-group="gallery" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../upload/images/SPECIAL%20OFFERS%20BANNERS%20%5bParents%5d(1).jpg" >
+							<div class="text-hover_small" style="margin-top:60%">
+								<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../special-offers/a-loving-gift-2.html"> <h3 class="color-default" style="margin-bottom: 0px;font-size: 20px;">A LOVING GIFT</h3>
+								<p class="mb0 color-white" style="color: #fff;">
+									to your beloved parents
+								</p> 
+								</a>
+							</div>
+						</div>
+						</a>
+					</div>
+				</div>
+				<div class="col-md-4 mb-30pxh">
+					<div class="room-galery">
+						<a class="fancybox" data-fancybox-group="gallery" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../upload/images/2018/Early%20Bird/website%20image.jpg" > <img src="../../../../../../../../../../../../../../../../../../../../../../../../../../../upload/images/2018/Early%20Bird/website%20image.jpg" alt="WEBSITE EXCLUSIVE" title="WEBSITE EXCLUSIVE"> </a>
+						<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../special-offers/website-exclusive-1.html" style=" position: absolute;    width: 100%;    height: 100%;    top: 0px;    z-index: 999999999999999999;">
+						<div class="img-hover fancybox" data-fancybox-group="gallery" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../upload/images/2018/Early%20Bird/website%20image.jpg" >
+							<div class="text-hover_small" style="margin-top:60%">
+								<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../special-offers/website-exclusive-1.html"> <h3 class="color-default" style="margin-bottom: 0px;font-size: 20px;">WEBSITE EXCLUSIVE</h3>
+								<p class="mb0 color-white" style="color: #fff;">
+									Total of 57% DISCOUNT
+								</p> 
+								</a>
+							</div>
+						</div>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+				<section id="l-relation">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<div class="l-detail">
+					<dl>
+						<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../destination.html">
+						<dt>
+							DESTINATION
+						</dt>
+						<dd><img src="../../../../../../../../../../../../../../../../../../../../../../../../../img/common/relation-img-1.png" alt="">
+						</dd>
+					</dl></a>
+					<dl>
+						<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../video.html">
+						<dt>
+							VIRTUAL TOUR
+						</dt>
+						<dd><img src="../../../../../../../../../../../../../../../../../../../../../../../../../img/common/relation-img-2.png" alt="">
+						</dd> </a>
+					</dl>
+					<dl>
+						<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../awards.html">
+						<dt>
+							AWARDS
+						</dt>
+						<dd><img src="../../../../../../../../../../../../../../../../../../../../../../../../../img/common/relation-img-3.png" alt="">
+						</dd></a>
+					</dl>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- /END CONTENT -->
+<footer id="ftr">
+	<div id="ftr-inr" class="container">
+		<div class="row">
+			<div class="col-sm-7" style=" padding-left: 30px;">
+				<ul>
+					<li>
+						<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../policy.html">POLICY</a>
+					</li>
+					<li>
+						<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../map.html">MAP & DIRECTION</a>
+					</li>
+					<li>
+						<a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../contact.html">CONTACT US</a>
+					</li>
+					<li>
+						<a href="https://www.youtube.com/channel/UCAUUnVC6TmmeNr7UPhew4DA" target="_blank">SUBSCRIBE</a>
+					</li>
+				</ul>
+			</div>
+			<div class="col-sm-5 footer-r" style=" padding-left: 30px;">
+				<span>SUBSCRIBE</span>
+				<input style="font-size: 15px;border: 1px solid #bc8888;width: 50%;height: 28px;padding: 0px 0px 0px 5px;color: rgb(0, 0, 0);background: #fff;" id="email" name="email">
+				<button class="btn btn-default submit_newsletter">SENT</button>
+				
+			</div>
+		</div>
+	</div>
+</footer>
+<script>
+	$(".submit_newsletter").click(function() {
+		var email = $('#email').val();
+
+		var re = /^([a-zA-Z0-9_.-])+@([a-zA-Z0-9_.-])+\.([a-zA-Z])+([a-zA-Z])+/;
+		var inemail = $("#email").val();
+
+		if (email == "") {
+			//$('.msg').text("Nhập Email");
+			alert("Nhập Email");
+		} else if (!re.test(inemail)) {
+			//$('#msg').html("Email sai định dạng");
+			alert("Email sai định dạng");
+		} else {
+			$.post('../../../../../../../../../../../../../../../../../../../../../../../../../../../index_ajaxd4c7.html?module_name=footer&amp;action=subscribe', {
+				email : email
+			}, function(rel) {
+				if (rel == "exist") {
+					//$('.msg').text("Email đã tồn tại");
+					alert("Email đã tồn tại");
+				} else if (rel == "Successfully") {
+					//$('.msg').text("Đăng ký thành công!");
+					alert("Đăng ký thành công");
+
+					document.getElementById("email").value = "";
+				}
+
+			});
+		}
+	}); 
+</script>
+
+
+
+<style>
+	.mfp-wrap {
+		-webkit-overflow-scrolling: touch;
+		-webkit-transform: translateZ(0);
+	}
+	html.mfp-helper {
+		height: 100%;
+
+	body {
+		overflow: hidden;
+		height: 100%;
+		-webkit-transform: translateZ(0);
+	}
+	}
+
+</style>
+			</div>
+		</div>
+	</body>
+
+<!-- Mirrored from www.imperialhotel.vn/templates/default/vendor/slick/img/common/img/common/img/common/img/common/img/common/img/common/img/common/img/common/img/common/img/common/img/common/img/common/img/common/img/common/img/common/icn-apple-touch.png by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 29 May 2018 02:10:42 GMT -->
+</html>
